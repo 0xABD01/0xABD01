@@ -35,7 +35,7 @@
   <tr>
     <td width="50%">
       <h3>🌐 <a href="https://github.com/0xABD01/netwatch-python-monitor">netwatch</a></h3>
-      <p>Network monitoring tool written in Python.</p>
+      <p>Network monitoring tool.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/Networking-555555">
     </td>
