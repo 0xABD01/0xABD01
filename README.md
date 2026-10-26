@@ -29,16 +29,28 @@
 **Security tools:** Nmap · Burp Suite · Metasploit · Wireshark · Nessus · John the Ripper · Gobuster
 
 ---
-
 ## 🚀 Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [**netwatch-python-monitor**](https://github.com/0xABD01/netwatch-python-monitor) | Network monitoring tool written in Python | Python |
-| [**HackTheBox-Writeups**](https://github.com/0xABD01/HackTheBox-Writeups) | Hack The Box machine write-ups | Pentest |
-| [**Passly App**](https://github.com/0xABD01/Passly_App) · [🌐 Demo](https://0xabd01.github.io/Passly_App/) | Password manager web application | JavaScript |
-| [**decentralized-library-dapp**](https://github.com/0xABD01/decentralized-library-dapp) | Decentralized library application (blockchain) | JavaScript |
+<p align="center">
+  <a href="https://github.com/0xABD01/netwatch-python-monitor">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0xABD01&repo=netwatch-python-monitor&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/0xABD01/HackTheBox-Writeups">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0xABD01&repo=HackTheBox-Writeups&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/0xABD01/Passly_App">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0xABD01&repo=Passly_App&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/0xABD01/decentralized-library-dapp">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0xABD01&repo=decentralized-library-dapp&theme=github_dark&hide_border=true" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://0xabd01.github.io/Passly_App/"><img src="https://img.shields.io/badge/Passly%20App-Live%20Demo-2ea44f?logo=githubpages&logoColor=white"></a>
+</p>
 ---
 
 ## 🏆 Achievements
