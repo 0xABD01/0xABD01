@@ -41,7 +41,7 @@
     </td>
     <td width="50%">
       <h3>🟩 <a href="https://github.com/0xABD01/HackTheBox-Writeups">HackTheBox Write-ups</a></h3>
-      <p>Detailed walkthroughs of the machines I've rooted.</p>
+      <p>Walkthroughs of the machines I've rooted.</p>
       <img src="https://img.shields.io/badge/Pentest-B91C1C">
       <img src="https://img.shields.io/badge/HTB-9FEF00?logoColor=black">
     </td>
