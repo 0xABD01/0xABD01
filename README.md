@@ -31,26 +31,36 @@
 ---
 ## 🚀 Projects
 
-<p align="center">
-  <a href="https://github.com/0xABD01/netwatch-python-monitor">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0xABD01&repo=netwatch-python-monitor&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/0xABD01/HackTheBox-Writeups">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0xABD01&repo=HackTheBox-Writeups&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/0xABD01/Passly_App">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0xABD01&repo=Passly_App&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/0xABD01/decentralized-library-dapp">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0xABD01&repo=decentralized-library-dapp&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://0xabd01.github.io/Passly_App/"><img src="https://img.shields.io/badge/Passly%20App-Live%20Demo-2ea44f?logo=githubpages&logoColor=white"></a>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>🌐 <a href="https://github.com/0xABD01/netwatch-python-monitor">netwatch</a></h3>
+      <p>Network monitoring tool written in Python.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Networking-555555">
+    </td>
+    <td width="50%">
+      <h3>🟩 <a href="https://github.com/0xABD01/HackTheBox-Writeups">HackTheBox Write-ups</a></h3>
+      <p>Detailed walkthroughs of the machines I've rooted.</p>
+      <img src="https://img.shields.io/badge/Pentest-B91C1C">
+      <img src="https://img.shields.io/badge/HTB-9FEF00?logoColor=black">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔑 <a href="https://github.com/0xABD01/Passly_App">Passly App</a> · <a href="https://0xabd01.github.io/Passly_App/">Demo</a></h3>
+      <p>Password manager web application.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/Security-2ea44f">
+    </td>
+    <td width="50%">
+      <h3>⛓️ <a href="https://github.com/0xABD01/decentralized-library-dapp">Decentralized Library</a></h3>
+      <p>Blockchain-based library application.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/Web3-7C3AED">
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🏆 Achievements
